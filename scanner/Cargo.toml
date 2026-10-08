@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "dex",
+    "cex",
+    "math",
+    "osr",
+    "engine"
+]
